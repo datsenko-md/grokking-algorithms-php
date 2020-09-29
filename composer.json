@@ -1,0 +1,28 @@
+{
+    "name": "max/grokking-algorithms-php",
+    "description": "Exiercises from book on PHP",
+    "require": {
+        "tightenco/collect": "^8.0",
+        "danielstjules/stringy": "^3.1"
+    },
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.5",
+        "phpunit/phpunit": "^9.3"
+    },
+    "authors": [
+        {
+            "name": "Max Datsenko",
+            "email": "datsenko.md@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "autoload-dev": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}

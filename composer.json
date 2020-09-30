@@ -3,7 +3,8 @@
     "description": "Exiercises from book on PHP",
     "require": {
         "tightenco/collect": "^8.0",
-        "danielstjules/stringy": "^3.1"
+        "danielstjules/stringy": "^3.1",
+        "illuminate/collections": "^8.7"
     },
     "require-dev": {
         "squizlabs/php_codesniffer": "^3.5",

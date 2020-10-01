@@ -21,7 +21,7 @@ class Greedy
             }
 
             $finalStations->add($bestStation);
-            $statesNeeded->remove(...$statesCovered->toArray());
+            $statesNeeded = $statesNeeded->diff($statesCovered);
         }
 
         return $finalStations;

@@ -28,3 +28,5 @@
 * [Быстрая сортировка](src/QuickSort.php)
 * [Поиск в ширину](src/BreadthFirstSearch.php)
 * [Алгоритм Дейкстры](src/Dijkstra.php)
+* [Жадный алгоритм](src/Greedy.php)
+* [Другое](src/Other.php)

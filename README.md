@@ -18,3 +18,12 @@
 * `cd hexlet-php`
 * `make install`
 * `make test`
+
+---
+
+### Содержание
+
+* [Бинарный поиск](src/BinarySearch.php)
+* [Сортировка выбором](src/SelectionSort.php)
+* [Быстрая сортировка](src/QuickSort.php)
+* [Поиск в ширину](src/BreadthFirstSearch.php)

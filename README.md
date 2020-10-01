@@ -27,3 +27,4 @@
 * [Сортировка выбором](src/SelectionSort.php)
 * [Быстрая сортировка](src/QuickSort.php)
 * [Поиск в ширину](src/BreadthFirstSearch.php)
+* [Алгоритм Дейкстры](src/Dijkstra.php)
